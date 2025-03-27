@@ -1,0 +1,6 @@
+
+train: E:\learn\G3-2\yolov10\datasets\images\train
+val: E:\learn\G3-2\yolov10\datasets\images\val
+
+nc: 3
+names: ['orange', 'apple', 'banana']
